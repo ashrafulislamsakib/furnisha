@@ -1,1 +1,5 @@
 # furnisha
+
+---
+permalink: /index.html
+---
